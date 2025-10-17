@@ -17,14 +17,23 @@
     "assetBundlePatterns": [
       "**/*"
     ],
+    "ios": {
+      "supportsTablet": true
+    },
     "android": {
-      "package": "com.irwanpro.signal",
-      "versionCode": 1,
-      "permissions": []
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/adaptive-icon.png",
+        "backgroundColor": "#ffffff"
+      },
+      "package": "com.irwansyahevisa.irwanprosignal",
+      "versionCode": 1
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
     },
     "extra": {
       "eas": {
-        "projectId": "irwanpro-signal"
+        "projectId": "c646a0b3-abb3-4633-bb43-42a10abadd66"
       }
     }
   }
