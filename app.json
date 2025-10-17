@@ -16,7 +16,7 @@
     "assetBundlePatterns": [
       "**/*"
     ],
-    "owner": "Irwansyahevisa",  <-- BARIS INI DITAMBAHKAN UNTUK MEMPERBAIKI MASALAH KONFIGURASI EAS
+    "owner": "Irwansyahevisa",
     "android": {
       "package": "com.irwansyah.irwanprosignal"
     },
