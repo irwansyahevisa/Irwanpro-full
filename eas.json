@@ -13,21 +13,3 @@
     "production": {}
   }
 }
-
-
-  "expo": {
-    "name": "IrwanPro Signal",
-    "slug": "irwanpro-signal",
-    "version": "1.0.0",
-    "orientation": "portrait",
-    "icon": "./assets/icon.png",
-    "android": {
-      "package": "com.irwanpro.signal"
-    },
-    "extra": {
-      "eas": {
-        "projectId": "irwanpro-signal-001"
-      }
-    }
-  }
-}
