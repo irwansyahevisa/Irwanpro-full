@@ -16,7 +16,7 @@
     "assetBundlePatterns": [
       "**/*"
     ],
-    "owner": "Irwansyahevisa",
+    "owner": "irwansyahevisa",
     "android": {
       "package": "com.irwansyah.irwanprosignal"
     },
