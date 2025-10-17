@@ -1,11 +1,10 @@
 {
   "expo": {
     "name": "IrwanPro Signal",
-    "slug": "irwanpro-signal",
+    "slug": "irwanpro-full",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
-    "userInterfaceStyle": "light",
     "splash": {
       "image": "./assets/splash.png",
       "resizeMode": "contain",
@@ -17,23 +16,12 @@
     "assetBundlePatterns": [
       "**/*"
     ],
-    "ios": {
-      "supportsTablet": true
-    },
     "android": {
-      "adaptiveIcon": {
-        "foregroundImage": "./assets/adaptive-icon.png",
-        "backgroundColor": "#ffffff"
-      },
-      "package": "com.irwansyahevisa.irwanprosignal",
-      "versionCode": 1
-    },
-    "web": {
-      "favicon": "./assets/favicon.png"
+      "package": "com.irwansyah.irwanprosignal"
     },
     "extra": {
       "eas": {
-        "projectId": "c646a0b3-abb3-4633-bb43-42a10abadd66"
+        "projectId": "c46a80b3-abb3-4633-bb43-42a10abaddd6"
       }
     }
   }
