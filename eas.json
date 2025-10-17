@@ -1,4 +1,20 @@
 {
+  "cli": {
+    "version": ">= 3.0.0"
+  },
+  "build": {
+    "production": {
+      "android": {
+        "buildType": "apk"
+      }
+    }
+  },
+  "submit": {
+    "production": {}
+  }
+}
+
+
   "expo": {
     "name": "IrwanPro Signal",
     "slug": "irwanpro-signal",
